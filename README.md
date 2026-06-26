@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Estudante de desenvolvimento back-end &nbsp;|&nbsp; 🇧🇷 Brasil &nbsp;|&nbsp; 🚀 Sempre aprendendo
+  🎓 Desenvolvimento back-end &nbsp;|&nbsp; 🇧🇷 Fortaleza - CE &nbsp;|&nbsp; 🚀 Sempre aprendendo
 </p>
 
 ---
