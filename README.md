@@ -1,52 +1,43 @@
-<h1 align="center">Olá, eu sou Antonio Carlos 👋</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Antoniomla&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Antonio%20Carlos&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
+<h3 align="center">Desenvolvedor back-end | Java & Spring Boot | Fortaleza - CE</h3>
+
 <p align="center">
-  🎓 Desenvolvimento back-end &nbsp;|&nbsp; 🇧🇷 Fortaleza - CE &nbsp;|&nbsp; 🚀 Sempre aprendendo
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-carlos-222292356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:antoniocarlosmelo00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-🧑‍💻 Sobre mim
+### Sobre
 
-- 📚 Estudando desenvolvimento **back-end** com foco em Java e Python
-- 🌱 Atualmente aprofundando conhecimentos em **Spring Boot** e **JPA/Hibernate**
-- 🗄️ Trabalhando com bancos de dados **PostgreSQL** e **MySQL**
-- 💡 Apaixonado por construir APIs robustas e sistemas escaláveis
-- 🎯 Objetivo: me tornar um desenvolvedor back-end sólido
+Construo APIs REST com Java, Spring Boot, JPA/Hibernate e bancos relacionais (PostgreSQL e MySQL). Tenho experiência prática com modelagem de dados, mapeamento de relacionamentos e consumo de APIs, e uso Python em projetos complementares de back-end.
 
 ---
 
- 🛠️ Tecnologias & Ferramentas
+### Tecnologias
 
-Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Frameworks & Bibliotecas
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,postgres,mysql,git&theme=dark" />
+</p>
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniomla&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
----
+### GitHub Stats
 
-🌱 Atualmente estudando
-
-- ☕ Java avançando com Spring Boot
-- 🔗 JPA & Hibernate (mapeamento, relacionamentos, queries)
-- 🐍 Python para back-end
-- 🗄️ Modelagem de banco de dados com PostgreSQL e MySQL
-- 🔌 Criação e consumo de APIs REST
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniomla&theme=tokyonight" />
+</p>
 
 ---
+
+### Projetos em destaque
+
+- 🔗 [workshop-springboot4-jpa](https://github.com/Antoniomla/workshop-springboot4-jpa)
+- 🔗 [Sistema-de-Locadora-de-Veiculos](https://github.com/Antoniomla/Sistema-de-Locadora-de-Veiculos)
