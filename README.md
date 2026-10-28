@@ -24,7 +24,7 @@ Construo APIs REST com Java, Spring Boot, JPA/Hibernate e bancos relacionais (Po
 ### Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,postgres,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,postgres,mongodb,mysql,git&theme=dark" />
 </p>
 
 ---
