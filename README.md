@@ -17,7 +17,7 @@
 
 ### Sobre
 
-Construo APIs REST com Java, Spring Boot, JPA/Hibernate e bancos relacionais (PostgreSQL e MySQL). Tenho experiência prática com modelagem de dados, mapeamento de relacionamentos e consumo de APIs, e uso Python em projetos complementares de back-end.
+Estudante de Ciência da Computação na UECE, com foco em desenvolvimento Back-End utilizando Java, Spring Boot, APIs REST e bancos de dados relacionais. Desenvolvendo projetos práticos com ênfase em código limpo e boas práticas de engenharia de software.
 
 ---
 
@@ -36,8 +36,3 @@ Construo APIs REST com Java, Spring Boot, JPA/Hibernate e bancos relacionais (Po
 </p>
 
 ---
-
-### Projetos em destaque
-
-- 🔗 [workshop-springboot4-jpa](https://github.com/Antoniomla/workshop-springboot4-jpa)
-- 🔗 [Sistema-de-Locadora-de-Veiculos](https://github.com/Antoniomla/Sistema-de-Locadora-de-Veiculos)
